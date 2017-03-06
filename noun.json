@@ -1,31 +1,26 @@
 {
     "noun": {
-        "value": "فرس",
+        "value": "ٌفَرَس",
         "translations": {
-            "en": "horse",
-            "ur": "گھوڑا",
-            "de": "Pferd"
+            "en": ["horse"],
+            "ur": ["گھوڑا"],
+            "de": ["Pferd"]
         },
+        "category": "<object id of noun_category>",
         "case": {
             "munsarif": true,
             "non-munsarif": false
         },
         "count": {
             "singular": {
-                "subjective": {
-                },
-                "objective": {
-                },
-                "nominative": {
-                }
+                "subjective": "فَرَسٌ",
+                "objective" : "فَرَسً",
+                "nominative": "فَرَسٍ"
             },
             "tasnia": {
-                "subjective": {
-                },
-                "objective": {
-                },
-                "nominative": {
-                }
+                "subjective": "فَرَسَا'ن",
+                "objective" : "فَرَسَينِ",
+                "nominative": "فَرَسَينِ"
             },
             "plural": {
                 "subjective": {
@@ -39,7 +34,7 @@
         "muarrif_bil_laam": {
             "qamari": true,
             "shamsi": false,
-            "states" : {
+            "states": {
                 "subjective": {
                 },
                 "objective": {
