@@ -1,70 +1,68 @@
 {
-    "noun": {
-        "value": "ٌفَرَس",
-        "translations": {
-            "en": ["horse"],
-            "ur": ["گھوڑا"],
-            "de": ["Pferd"]
-        },
-        "category": "<object id of noun_category>",
-        "case": {
-            "munsarif": true,
-            "non-munsarif": false
-        },
-        "count": {
-            "singular": {
-                "subjective": "فَرَسٌ",
-                "objective" : "فَرَسً",
-                "nominative": "فَرَسٍ"
-            },
-            "tasnia": {
-                "subjective": "فَرَسَانِ",
-                "objective" : "فَرَسَيْنِ",
-                "nominative": "فَرَسَيْنِ"
-            },
-            "plural": {
-                "subjective": "فَرَسُوْنَ",
-                "objective" : "فَرَسِيْنَ",
-                "nominative": "فَرَسِيْنَ"
-            }
-        },
-        "muarrif_bil_laam": {
-            "qamari": true,
-            "shamsi": false,
-            "singular": {
-                "subjective": "اَلْفَرَسٌ ",
-                "objective" : "اَلْفَرَسَ ",
-                "nominative": "اَلْفَرَسَ "
-            },
-            "tasnia": {
-                "subjective": "اَلْفَرَسَانِ ",
-                "objective" : "اَلْفَرَسَيْنِ ",
-                "nominative": "اَلْفَرَسَيْنِ "
-            },
-            "plural": {
-                "subjective": "اَلْفَرَسُوْنَ ",
-                "objective" : "اَلْفَرَسِيْنَ ",
-                "nominative": "اَلْفَرَسِيْنَ "
-            }
-        },
-        "gender": {
-            "male": {
-                "samai": "",
-                "haqiqi": true,
-                "female": "<object_id> | null"
-            }
-        },
-        "kind": {
-            "proper_noun": {
-                "ism_alam": false,
-                "ism_zameer": false,
-                "ism_ishara": false,
-                "ism_mosul": false
-            },
-            "common_noun": {
-                "ism_zaat": true,
-                "ism_sift": false
-            }
-        }
-    }
+	"value": "ٌفَرَس",
+	"translations": {
+		"en": ["horse"],
+		"ur": ["گھوڑا"],
+		"de": ["Pferd"]
+	},
+	"category": "<object id of noun_category>",
+	"case": {
+		"munsarif": true,
+		"non-munsarif": false
+	},
+	"count": {
+		"singular": {
+			"subjective": "فَرَسٌ",
+			"objective" : "فَرَسً",
+			"nominative": "فَرَسٍ"
+		},
+		"tasnia": {
+			"subjective": "فَرَسَانِ",
+			"objective" : "فَرَسَيْنِ",
+			"nominative": "فَرَسَيْنِ"
+		},
+		"plural": {
+			"subjective": "فَرَسُوْنَ",
+			"objective" : "فَرَسِيْنَ",
+			"nominative": "فَرَسِيْنَ"
+		}
+	},
+	"muarrif_bil_laam": {
+		"qamari": true,
+		"shamsi": false,
+		"singular": {
+			"subjective": "اَلْفَرَسٌ ",
+			"objective" : "اَلْفَرَسَ ",
+			"nominative": "اَلْفَرَسَ "
+		},
+		"tasnia": {
+			"subjective": "اَلْفَرَسَانِ ",
+			"objective" : "اَلْفَرَسَيْنِ ",
+			"nominative": "اَلْفَرَسَيْنِ "
+		},
+		"plural": {
+			"subjective": "اَلْفَرَسُوْنَ ",
+			"objective" : "اَلْفَرَسِيْنَ ",
+			"nominative": "اَلْفَرَسِيْنَ "
+		}
+	},
+	"gender": {
+		"male": {
+			"samai": "",
+			"haqiqi": true,
+			"female": "<object_id> | null"
+		}
+	},
+	"kind": {
+		"proper_noun": {
+			"ism_alam": false,
+			"ism_zameer": false,
+			"ism_ishara": false,
+			"ism_mosul": false
+		},
+		"common_noun": {
+			"ism_zaat": true,
+			"ism_sift": false
+		}
+	}
 }
