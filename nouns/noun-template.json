@@ -1,0 +1,70 @@
+{
+	"value": "",
+	"translations": {
+		"en": [],
+		"ur": [],
+		"de": []
+	},
+	"category": "<object id of noun_category>",
+	"case": {
+		"munsarif": false | true,
+		"non-munsarif": false | true
+	},
+	"count": {
+		"maksar" : true | false,
+		"salim" : false | false,
+		"singular": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"tasnia": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"plural": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		}
+	},
+	"muarrif_bil_laam": {
+		"qamari": false | true,
+		"shamsi": false | true,
+		"singular": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"tasnia": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"plural": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		}
+	},
+	"gender": {
+		"male": {
+			"samai": "",
+			"haqiqi": false | true,
+			"female": "<object_id> | null"
+		}
+	},
+	"kind": {
+		"proper_noun": {
+			"ism_alam": false | true,
+			"ism_zameer": false | true,
+			"ism_ishara": false | true,
+			"ism_mosul": false | true
+		},
+		"common_noun": {
+			"ism_zaat": false | true,
+			"ism_sift": false | true
+		}
+	}
+}

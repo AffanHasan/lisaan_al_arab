@@ -1,0 +1,70 @@
+{
+	"value": "جَبَلٌ",
+	"translations": {
+		"en": [ "Mountain" ],
+		"ur": [ "پھاڑ" ],
+		"de": [ "berg" ]
+	},
+	"category": "<object id of noun_category>",
+	"case": {
+		"munsarif": false,
+		"non-munsarif": true
+	},
+	"count": {
+		"maksar" : true,
+		"salim" : false,
+		"singular": {
+			"subjective": "جَبَلٌ",
+			"objective" : "جَبَلً",
+			"nominative": "جَبَلٍ"
+		},
+		"tasnia": {
+			"subjective": "ُجِبَال ",
+			"objective" : "",
+			"nominative": "جَبَلَيْنِ"
+		},
+		"plural": {
+			"subjective": "جَبَلُوْنَ",
+			"objective" : "جَبَلِيْنَ",
+			"nominative": "جَبَلِيْنَ"
+		}
+	},
+	"muarrif_bil_laam": {
+		"qamari": false | true,
+		"shamsi": false | true,
+		"singular": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"tasnia": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"plural": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		}
+	},
+	"gender": {
+		"male": {
+			"samai": "",
+			"haqiqi": false | true,
+			"female": "<object_id> | null"
+		}
+	},
+	"kind": {
+		"proper_noun": {
+			"ism_alam": false | true,
+			"ism_zameer": false | true,
+			"ism_ishara": false | true,
+			"ism_mosul": false | true
+		},
+		"common_noun": {
+			"ism_zaat": false | true,
+			"ism_sift": false | true
+		}
+	}
+}

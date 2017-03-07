@@ -1,0 +1,70 @@
+{
+	"value": "كِتَابٌ",
+	"translations": {
+		"en": [ "Book" ],
+		"ur": [ "کتاب" ],
+		"de": [ "Buch" ]
+	},
+	"category": "<object id of noun_category>",
+	"case": {
+		"munsarif": true,
+		"non-munsarif": false
+	},
+	"count": {
+		"maksar" : true,
+		"salim"  : false,
+		"singular": {
+			"subjective": "كِتَابٌ",
+			"objective" : "كِتَاباً",
+			"nominative": "كِتَابٍ"
+		},
+		"tasnia": {
+			"subjective": "كِتَابَانِ",
+			"objective" : "كِتَابَيْنِ",
+			"nominative": "كِتَابَيْنِ"
+		},
+		"plural": {
+			"subjective": "كُتُبٌ",
+			"objective" : "كُتُباً",
+			"nominative": "كُتُبٍ"
+		}
+	},
+	"muarrif_bil_laam": {
+		"qamari": false | true,
+		"shamsi": false | true,
+		"singular": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"tasnia": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		},
+		"plural": {
+			"subjective": "",
+			"objective" : "",
+			"nominative": ""
+		}
+	},
+	"gender": {
+		"male": {
+			"samai": "",
+			"haqiqi": false,
+			"female": "<object_id> | null"
+		}
+	},
+	"kind": {
+		"proper_noun": {
+			"ism_alam": false | true,
+			"ism_zameer": false | true,
+			"ism_ishara": false | true,
+			"ism_mosul": false | true
+		},
+		"common_noun": {
+			"ism_zaat": false | true,
+			"ism_sift": false | true
+		}
+	}
+}
