@@ -25,27 +25,27 @@
 		},
 		"plural": {
 			"subjective": "كُتُبٌ",
-			"objective" : "كُتُباً",
+			"objective" : "كُتُبً",
 			"nominative": "كُتُبٍ"
 		}
 	},
 	"muarrif_bil_laam": {
-		"qamari": false | true,
-		"shamsi": false | true,
+		"qamari": true,
+		"shamsi": false,
 		"singular": {
-			"subjective": "",
-			"objective" : "",
-			"nominative": ""
+			"subjective": "ُاَلْكِتَاب ",
+			"objective" : "َاَلْكِتَاب,",
+			"nominative": "َاَلْكِتَاب,"
 		},
 		"tasnia": {
-			"subjective": "",
-			"objective" : "",
-			"nominative": ""
+			"subjective": "اَلْكِتَابَانِ,",
+			"objective" : "اَلْكِتَابَيْنِ,",
+			"nominative": "اَلْكِتَابَيْنِ,",
 		},
 		"plural": {
-			"subjective": "",
-			"objective" : "",
-			"nominative": ""
+			"subjective": "اَلْكُتُبُ,",
+			"objective" : "اَلْكُتُبَ ",
+			"nominative": "اَلْكُتُبَ "
 		}
 	},
 	"gender": {

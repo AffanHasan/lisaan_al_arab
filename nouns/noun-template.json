@@ -48,11 +48,12 @@
 			"nominative": ""
 		}
 	},
+	"opposite" : "<object_id>" | null,
 	"gender": {
 		"male": {
 			"samai": "",
 			"haqiqi": false | true,
-			"female": "<object_id> | null"
+			"female": "<object_id>" | null
 		}
 	},
 	"kind": {
