@@ -50,21 +50,16 @@
 	},
 	"gender": {
 		"male": {
-			"samai": "",
+			"samai": true,
 			"haqiqi": false,
-			"female": "<object_id> | null"
+			"female": null
 		}
 	},
 	"kind": {
-		"proper_noun": {
-			"ism_alam": false | true,
-			"ism_zameer": false | true,
-			"ism_ishara": false | true,
-			"ism_mosul": false | true
-		},
+		"proper_noun": null,
 		"common_noun": {
-			"ism_zaat": false | true,
-			"ism_sift": false | true
+			"ism_zaat": true,
+			"ism_sift": false
 		}
 	}
 }
