@@ -1,0 +1,14 @@
+{
+    "commands": [
+        {
+            "command" : "add_noun"
+        },
+        {
+            "command" : "get_noun",
+            "args" : {
+                "noun_name" : null
+            }
+        }
+    ],
+    "current_command": null
+}
