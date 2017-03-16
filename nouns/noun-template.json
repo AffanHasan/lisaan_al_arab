@@ -54,6 +54,11 @@
 			"samai": "",
 			"haqiqi": false | true,
 			"female": "<object_id>" | null
+		},
+		"female": {
+			"samai": "",
+			"haqiqi": false | true,
+			"male": "<object_id>" | null
 		}
 	},
 	"kind": {
